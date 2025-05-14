@@ -1,5 +1,3 @@
-NetChat
-=======
+File-Sharing-App
+================
 
-rabbitmq chatroom
-this is a chatroom based on rabbitmq
